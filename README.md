@@ -7,7 +7,7 @@
 ## Links to Repo and video📌
 
 🔸 GitHub Repository [link](https://github.com/jmdg1023/Changeling013)
-🔸 Video [link]()
+🔸 Video [link](https://drive.google.com/file/d/1IH92GChwb06MclalcPyifnKLOMdAt57A/view)
 
 
 
@@ -59,7 +59,7 @@ Enter PW when promted
 
 quit
 
-```npm run seed```
+```node seeds index.js```
 
 ```npm start```
 
